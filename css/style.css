@@ -1,0 +1,19 @@
+.layout {
+  height: 480px;
+  width: 640px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.random1 {
+  margin-right: 250;
+}
+
+.box {
+  background: #89FC00;
+  height: 5px;
+  width: 500;
+  position: absolute;
+}
